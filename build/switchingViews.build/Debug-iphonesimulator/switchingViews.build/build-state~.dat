@@ -1,0 +1,287 @@
+TswitchingViews
+v7
+r0
+t519855492.085444
+cCheck dependencies
+cProcessInfoPlistFile /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/Info.plist switchingViews-Info.plist
+cCompileXIB /Users/sbarghshoon/Desktop/switchingViews/MainWindow.xib
+cCompileXIB /Users/sbarghshoon/Desktop/switchingViews/switchingViewsViewController.xib
+cProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch.gch switchingViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/switchingViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsAppDelegate.o /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsViewController.o /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/Second.o /Users/sbarghshoon/Desktop/switchingViews/Classes/Second.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews normal i386
+cGenerateDSYMFile /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app.dSYM /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews
+cTouch /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/sbarghshoon/Desktop/switchingViews/Classes/Second.h
+c00000000594C25BD00000000000000EC
+t1498162621
+s236
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/switchingViews/Classes/Second.m
+c00000000594C25FB000000000000011F
+t1498162683
+s287
+i"Second.h"
+
+N/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.h
+c00000000594C2454000000000000020C
+t1498162260
+s524
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.m
+c00000000594C24540000000000000AD0
+t1498162260
+s2768
+i"switchingViewsAppDelegate.h"
+i"switchingViewsViewController.h"
+
+N/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.h
+c00000000594C24D20000000000000146
+t1498162386
+s326
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.m
+c00000000594C25970000000000000179
+t1498162583
+s377
+i"switchingViewsViewController.h"
+i"Second.h"
+
+N/Users/sbarghshoon/Desktop/switchingViews/MainWindow.xib
+c00000000594C24540000000000004E7D
+t1498162260
+s20093
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app
+t1498162692
+s238
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app.dSYM
+t1498162692
+s102
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/Info.plist
+t1498162690
+s619
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/MainWindow.nib
+t1498162691
+s1695
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/PkgInfo
+t1498162690
+s8
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews
+t1498162692
+s17724
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViewsViewController.nib
+t1498162691
+s1269
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/Second.o
+t1498162691
+s36720
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/main.o
+t1498162691
+s6316
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViews.LinkFileList
+c00000000594C2602000000000000025B
+t1498162690
+s603
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsAppDelegate.o
+t1498162691
+s51788
+
+N/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsViewController.o
+t1498162691
+s37368
+
+N/Users/sbarghshoon/Desktop/switchingViews/main.m
+c00000000594C24540000000000000173
+t1498162260
+s371
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/switchingViews/switchingViewsViewController.xib
+c00000000594C24540000000000001A61
+t1498162260
+s6753
+
+N/Users/sbarghshoon/Desktop/switchingViews/switchingViews_Prefix.pch
+c00000000594C245400000000000000C5
+t1498162260
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch.gch
+t1498162691
+s15814064
+
+NswitchingViews-Info.plist
+c00000000594C2454000000000000038D
+t1498162260
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies519855490#519855490#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/Second.o /Users/sbarghshoon/Desktop/switchingViews/Classes/Second.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519855491.758098
+e519855491.796388
+r1
+xCompileC
+xbuild/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/Second.o
+x/Users/sbarghshoon/Desktop/switchingViews/Classes/Second.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sbarghshoon/Desktop/switchingViews/Classes/Second.m519855491#519855491#0(0"0(0#0#58"/Users/sbarghshoon/Desktop/switchingViews/Classes/Second.m8610615168#2099"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-generated-files.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-project-headers.hmap -F/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch -c /Users/sbarghshoon/Desktop/switchingViews/Classes/Second.m -o /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/Second.o0#
+
+CCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/switchingViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519855491.756347
+e519855491.789146
+r1
+xCompileC
+xbuild/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/main.o
+x/Users/sbarghshoon/Desktop/switchingViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/sbarghshoon/Desktop/switchingViews/main.m519855491#519855491#0(0"0(0#0#48"/Users/sbarghshoon/Desktop/switchingViews/main.m8612020992#2087"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-generated-files.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-project-headers.hmap -F/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch -c /Users/sbarghshoon/Desktop/switchingViews/main.m -o /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/main.o0#
+
+CCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsAppDelegate.o /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519855491.757068
+e519855491.804647
+r1
+xCompileC
+xbuild/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsAppDelegate.o
+x/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.m519855491#519855491#0(0"0(0#0#77"/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.m8611638624#2137"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-generated-files.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-project-headers.hmap -F/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch -c /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsAppDelegate.m -o /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsAppDelegate.o0#
+
+CCompileC build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsViewController.o /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519855491.757585
+e519855491.796058
+r1
+xCompileC
+xbuild/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsViewController.o
+x/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.m519855491#519855491#0(0"0(0#0#80"/Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.m8611460416#2143"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-generated-files.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-project-headers.hmap -F/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch -c /Users/sbarghshoon/Desktop/switchingViews/Classes/switchingViewsViewController.m -o /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViewsViewController.o0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/switchingViews/MainWindow.xib
+s519855490.876152
+e519855491.230745
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/switchingViews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib519855490#519855491#0(0"0(0#0#56"/Users/sbarghshoon/Desktop/switchingViews/MainWindow.xib8611670752#586"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/MainWindow.nib /Users/sbarghshoon/Desktop/switchingViews/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/switchingViews/switchingViewsViewController.xib
+s519855490.876720
+e519855491.221831
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/switchingViews/switchingViewsViewController.xib
+lSLF07#2@43"CompileXIB switchingViewsViewController.xib519855490#519855491#0(0"0(0#0#74"/Users/sbarghshoon/Desktop/switchingViews/switchingViewsViewController.xib8611567136#622"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViewsViewController.nib /Users/sbarghshoon/Desktop/switchingViews/switchingViewsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app.dSYM /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews
+s519855492.039115
+e519855492.068759
+r1
+xGenerateDSYMFile
+x/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app.dSYM
+x/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/switchingViews.app.dSYM build/Debug-iphonesimulator/switchingViews.app/switchingViews519855492#519855492#0(0"0(0#0#103"/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews8611087680#413"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews -o /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app.dSYM0#
+
+CLd /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews normal i386
+s519855491.804704
+e519855492.039051
+r1
+xLd
+x/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews
+xnormal
+xi386
+lSLF07#2@108"Link /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews519855491#519855492#0(0"0(0#0#0"8600058176#950"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator -F/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator -filelist /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/Objects-normal/i386/switchingViews.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/switchingViews0#
+
+CProcessInfoPlistFile /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/Info.plist switchingViews-Info.plist
+s519855490.871386
+e519855490.876093
+r1
+xProcessInfoPlistFile
+x/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/Info.plist
+xswitchingViews-Info.plist
+lSLF07#2@33"Process switchingViews-Info.plist519855490#519855490#0(0"0(0#0#67"/Users/sbarghshoon/Desktop/switchingViews/switchingViews-Info.plist31525394967363688#509"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility switchingViews-Info.plist -genpkginfo /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app/Info.plist0#
+
+CProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch.gch switchingViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s519855491.231004
+e519855491.756274
+r1
+xProcessPCH
+x/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch.gch
+xswitchingViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile switchingViews_Prefix.pch519855491#519855491#0(0"0(0#0#67"/Users/sbarghshoon/Desktop/switchingViews/switchingViews_Prefix.pch8612471552#1969"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-generated-files.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/switchingViews-project-headers.hmap -F/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/switchingViews/build/switchingViews.build/Debug-iphonesimulator/switchingViews.build/DerivedSources -c /Users/sbarghshoon/Desktop/switchingViews/switchingViews_Prefix.pch -o /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/switchingViews_Prefix-dnkvjkpqvasfsgetctdbyzfoyppq/switchingViews_Prefix.pch.gch0#
+
+CTouch /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app
+s519855492.068816
+e519855492.085406
+r1
+xTouch
+x/Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app
+lSLF07#2@94"Touch /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app519855492#519855492#0(0"0(0#0#0"8601770144#291"    cd /Users/sbarghshoon/Desktop/switchingViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sbarghshoon/Desktop/switchingViews/build/Debug-iphonesimulator/switchingViews.app0#
+
